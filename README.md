@@ -1,6 +1,6 @@
 ## Olá, seja Muito Bem-vindo(a) ao meu perfil 😁🌹
 
-meu nome é Lucas Manrick Teodoro da Fonseca, amo técnologia de modo geral e me comprometo aos estudos da mesma a fim de expandir meu conhecimento.
+meu nome é Lucas Manrick Teodoro da Fonseca, amo a area de técnologia de modo geral e me comprometo aos estudos da mesma a fim de expandir meu conhecimento.
 
  <div>
    <a href="https://github.com/lucasmanrick">

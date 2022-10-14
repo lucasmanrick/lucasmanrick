@@ -1,5 +1,7 @@
 ## Olá, seja Muito Bem-vindo(a) ao meu perfil 😁🌹
 
+meu nome é Lucas Manrick Teodoro da Fonseca, amo técnologia de modo geral e me comprometo aos estudos da mesma a fim de expandir meu conhecimento.
+
  <div>
    <a href="https://github.com/lucasmanrick">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmanrick&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

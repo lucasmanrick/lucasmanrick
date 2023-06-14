@@ -16,7 +16,7 @@ meu nome é Lucas Manrick Teodoro da Fonseca, amo a area de técnologia de modo 
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  Minhas Redes Sociais para contato!
  
 <div> 
   <a href = "mailto:lucasmanrick.ipms@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

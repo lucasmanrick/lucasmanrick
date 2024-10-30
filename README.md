@@ -13,7 +13,7 @@ meu nome é Lucas Manrick Teodoro da Fonseca, amo a area de técnologia de modo 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://b2303398.smushcdn.com/2303398/wp-content/uploads/2022/09/1200px-react-icon.svg1_.png?lossy=1&strip=1&webp=1">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://hermes.dio.me/articles/cover/008f9f92-c9f8-4d4f-b760-70c44f0b5e82.png">
 </div>
  
  <br>

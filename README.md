@@ -25,8 +25,11 @@ meu nome é Lucas Manrick Teodoro da Fonseca, tenho 21 anos, sou desenvolvedor F
   <a href="https://www.linkedin.com/in/lucas-manrick-0310b3228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/lucasmanrick/lucasmanrick/blob/output/github-contribution-grid-snake.svg)
-  - name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.2.0
-            
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 </div>

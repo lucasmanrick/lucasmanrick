@@ -1,6 +1,6 @@
 ## Olá, seja Muito Bem-vindo(a) ao meu perfil 😁🌹
 
-meu nome é Lucas Manrick Teodoro da Fonseca, amo a area de técnologia de modo geral e me comprometo aos estudos da mesma diariamente a fim de expandir meu conhecimento.
+meu nome é Lucas Manrick Teodoro da Fonseca, tenho 21 anos, sou desenvolvedor Fullstack com técnico em desenvolvimento de sistemas seja muito bem vindo ao meu perfil 
 
  <div>
    <a href="https://github.com/lucasmanrick">
@@ -25,5 +25,8 @@ meu nome é Lucas Manrick Teodoro da Fonseca, amo a area de técnologia de modo 
   <a href="https://www.linkedin.com/in/lucas-manrick-0310b3228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/lucasmanrick/lucasmanrick/blob/output/github-contribution-grid-snake.svg)
+  - name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.2.0
+            
 
 </div>

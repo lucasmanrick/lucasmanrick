@@ -24,6 +24,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-readme: |
-  ![Snake animation](https://github.com/lucasmanrick/lucasmanrick/blob/output/github-contribution-grid-snake.svg)

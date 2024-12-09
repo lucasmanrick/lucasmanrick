@@ -15,6 +15,8 @@ meu nome é Lucas Manrick Teodoro da Fonseca, tenho 21 anos, sou desenvolvedor F
   <img align="center" alt="react" height="30" width="40" src="https://b2303398.smushcdn.com/2303398/wp-content/uploads/2022/09/1200px-react-icon.svg1_.png?lossy=1&strip=1&webp=1">
   <img align="center" alt="node" height="30" width="40" src="https://hermes.dio.me/articles/cover/008f9f92-c9f8-4d4f-b760-70c44f0b5e82.png">
   <img align="center" alt="mysql" height="30" width="40" src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png">
+  <img align="center" alt="SQLite" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg">
+ 
 </div>
  
  <br>

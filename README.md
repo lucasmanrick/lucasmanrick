@@ -1,6 +1,6 @@
 ## Olá, seja Muito Bem-vindo(a) ao meu perfil 😁🌹
 
-meu nome é Lucas Manrick Teodoro da Fonseca, tenho 21 anos, sou desenvolvedor Fullstack com técnico em desenvolvimento de sistemas, e estudo na Onebitcode na stack de java script e tenho experiencia de 1 ano na área de tecnologia onde trabalhei para empresa EMS
+meu nome é Lucas Manrick Teodoro da Fonseca, tenho 21 anos, sou desenvolvedor Fullstack com técnico em desenvolvimento de sistemas, e estudo na Onebitcode na stack de java script e tenho experiencia de 1 ano na área de tecnologia onde trabalhei para empresa EMS na área de desenvolvimento de sistemas, atualmente estou estudando Java na ONG Generation Brasil, do periodo das 8 as 17 ao longo de 3 meses.
 
  <div>
    <a href="https://github.com/lucasmanrick">
